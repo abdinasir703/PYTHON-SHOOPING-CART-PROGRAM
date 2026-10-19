@@ -47,7 +47,7 @@ A beginner-friendly shopping cart program built with Python. This application al
 
 **Requirement:** Python 3 installed on your computer.
 
-## 💻 EXAMPLE INPUT AND OUTPUT
+##  EXAMPLE INPUT AND OUTPUT
 
 enter a food to buy (q for quit): Milk
 enter the price of a Milk: $2.5
@@ -77,16 +77,14 @@ your total price is $7.0
 The goal of this project is to practice fundamental Python programming concepts by building a simple, interactive shopping cart application. It is part of my journey toward becoming a better programmer through consistent practice and hands-on projects.
 
 ##  AUTHOR
-**ABDI NASIR ADAN**
+**ABDI NASIR ADAN**--
 **ASPIRING BACKEND SOFTWARE ENGINEER|PYTHON|FASTAPI|POSTGRESQL|GIT&GITHUB**
 
 GitHub: [@abdinasir703](https://github.com/abdinasir703)
 
 ##  LICENSE
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute it according to the license terms.
-
-Include a `LICENSE` file containing the full MIT License text in the repository.
+This project is licensed under the MIT License. You are free to use, modify, and distribute it according to the license terms.--
 
 ## A MESSAGE TO THE COMMUNITY
 
@@ -94,6 +92,6 @@ I'm learning Python one project at a time and continuously improving my programm
 
 Thank you for visiting my repository and supporting my learning journey!
 
-**Keep learning, keep building, and happy coding! 🐍🚀**
+**Keep learning, keep building, and happy coding! **
 
 If you find this project helpful, please consider giving it a star ⭐.
